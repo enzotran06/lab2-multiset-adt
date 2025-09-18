@@ -227,4 +227,4 @@ you to think about possible changes or extensions you could make to the code:
 
 - how can you use Generics to generalize the `MultiSet` ADT to contain any kind of objects?
 
-- how does the code change if we make the `MultiSet` ADT a Java Interface instead of an abstract class?
+- how does the code change if we make the `MultiSet` ADT a Java Interface instead of an abstract class? 
